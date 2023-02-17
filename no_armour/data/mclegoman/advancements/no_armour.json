@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:iron_helmet"
+		},
+		"title": "No Armour",
+		"description": "Removes Armour",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "mclegoman:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
